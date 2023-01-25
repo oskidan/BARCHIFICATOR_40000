@@ -1,11 +1,10 @@
-![Middle Out](https://github.com/oskidan/BARCHIFICATOR_40000/Documentation/middleout.jpeg?raw=true)
+![Middle Out](https://github.com/oskidan/BARCHIFICATOR_40000/blob/main/Documentation/middleout.jpg?view=raw)
 
 # BARCHIFICATOR 40000
 The best grayscale image compressor in the world![^actually] 
 
 Seeing is believing:
-
-![Middle Out](https://github.com/oskidan/BARCHIFICATOR_40000/Documentation/middleout.jpeg?raw=true)
+![Promo](https://github.com/oskidan/BARCHIFICATOR_40000/blob/main/Documentation/BARCHIFICATOR_40000.gif?view=raw)
 
 ## Prerequisites
 - CMake v3.16 or above;
